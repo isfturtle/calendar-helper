@@ -1,0 +1,24 @@
+{
+  "name": "calendar-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "bootstrap": "^4.1.1",
+    "cookie-session": "^2.0.0-beta.3",
+    "express": "^4.16.3",
+    "googleapis": "^27.0.0",
+    "jquery": "^3.3.1",
+    "mongoose": "^5.2.0",
+    "passport": "^0.4.0",
+    "passport-google-oauth20": "^1.0.0",
+    "passport-google-token": "^0.1.2",
+    "request": "^2.87.0"
+  }
+}

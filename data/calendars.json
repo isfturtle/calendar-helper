@@ -1,0 +1,423 @@
+{
+    "kind": "calendar#calendarList",
+    "etag": "\"p33gatotainpdm0g\"",
+    "nextSyncToken": "COCu46qV8tsCEhdzaW5naW5ndHVydGxlQGdtYWlsLmNvbQ==",
+    "items": [
+    {
+    "kind": "calendar#calendarListEntry",
+    "etag": "\"0\"",
+    "id": "bl4fptbv5vridpa9e8qn2k5bj8@group.calendar.google.com",
+    "summary": "Pets",
+    "timeZone": "America/New_York",
+    "colorId": "11",
+    "backgroundColor": "#fbe983",
+    "foregroundColor": "#000000",
+    "selected": true,
+    "accessRole": "owner",
+    "defaultReminders": [],
+    "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+    "eventHangout"
+    ]
+    }
+    },
+    {
+    "kind": "calendar#calendarListEntry",
+    "etag": "\"0\"",
+    "id": "6en8abbshtmdn49jeole4fdo9c@group.calendar.google.com",
+    "summary": "Aiti's Appointment",
+    "timeZone": "America/New_York",
+    "colorId": "24",
+    "backgroundColor": "#a47ae2",
+    "foregroundColor": "#000000",
+    "selected": true,
+    "accessRole": "owner",
+    "defaultReminders": [],
+    "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+    "eventHangout"
+    ]
+    }
+    },
+    {
+    "kind": "calendar#calendarListEntry",
+    "etag": "\"1525719449987000\"",
+    "id": "singingturtle@gmail.com",
+    "summary": "Ilona Fleischer",
+    "timeZone": "America/New_York",
+    "colorId": "13",
+    "backgroundColor": "#92e1c0",
+    "foregroundColor": "#000000",
+    "selected": true,
+    "accessRole": "owner",
+    "defaultReminders": [
+    {
+    "method": "sms",
+    "minutes": 10
+    },
+    {
+    "method": "popup",
+    "minutes": 10
+    }
+    ],
+    "notificationSettings": {
+    "notifications": [
+    {
+    "type": "eventCreation",
+    "method": "email"
+    },
+    {
+    "type": "eventChange",
+    "method": "email"
+    },
+    {
+    "type": "eventCancellation",
+    "method": "email"
+    }
+    ]
+    },
+    "primary": true,
+    "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+    "eventHangout"
+    ]
+    }
+    },
+    {
+    "kind": "calendar#calendarListEntry",
+    "etag": "\"1484275017701000\"",
+    "id": "6an4f2oeksqqja5g3j6lm7d98g@group.calendar.google.com",
+    "summary": "Ilona's Appointments",
+    "timeZone": "UTC",
+    "colorId": "13",
+    "backgroundColor": "#92e1c0",
+    "foregroundColor": "#000000",
+    "selected": true,
+    "accessRole": "owner",
+    "defaultReminders": [],
+    "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+    "eventHangout"
+    ]
+    }
+    },
+    {
+    "kind": "calendar#calendarListEntry",
+    "etag": "\"0\"",
+    "id": "3d560c52ovrhi31kj71haddeg8@group.calendar.google.com",
+    "summary": "Ilona's Tests",
+    "timeZone": "UTC",
+    "colorId": "2",
+    "backgroundColor": "#d06b64",
+    "foregroundColor": "#000000",
+    "selected": true,
+    "accessRole": "owner",
+    "defaultReminders": [],
+    "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+    "eventHangout"
+    ]
+    }
+    },
+    {
+    "kind": "calendar#calendarListEntry",
+    "etag": "\"1525659224191000\"",
+    "id": "m7vi6dkp7pb48kieif16m525d0@group.calendar.google.com",
+    "summary": "Triangle NC",
+    "location": "Durham, NC",
+    "timeZone": "America/New_York",
+    "colorId": "14",
+    "backgroundColor": "#9fe1e7",
+    "foregroundColor": "#000000",
+    "selected": true,
+    "accessRole": "reader",
+    "defaultReminders": [],
+    "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+    "eventHangout"
+    ]
+    }
+    },
+    {
+    "kind": "calendar#calendarListEntry",
+    "etag": "\"1486155023699000\"",
+    "id": "singingaiti@gmail.com",
+    "summary": "singingaiti@gmail.com",
+    "timeZone": "America/New_York",
+    "colorId": "23",
+    "backgroundColor": "#cd74e6",
+    "foregroundColor": "#000000",
+    "selected": true,
+    "accessRole": "reader",
+    "defaultReminders": [],
+    "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+    "eventHangout"
+    ]
+    }
+    },
+    {
+    "kind": "calendar#calendarListEntry",
+    "etag": "\"0\"",
+    "id": "uncsababa@gmail.com",
+    "summary": "Sababa Calendar",
+    "location": "Chapel Hill",
+    "timeZone": "America/New_York",
+    "colorId": "15",
+    "backgroundColor": "#9fc6e7",
+    "foregroundColor": "#000000",
+    "selected": true,
+    "accessRole": "reader",
+    "defaultReminders": [],
+    "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+    "eventHangout"
+    ]
+    }
+    },
+    {
+    "kind": "calendar#calendarListEntry",
+    "etag": "\"0\"",
+    "id": "du315fnfr30kv96cps4209lrdg@group.calendar.google.com",
+    "summary": "Practice Times",
+    "timeZone": "America/New_York",
+    "colorId": "12",
+    "backgroundColor": "#fad165",
+    "foregroundColor": "#000000",
+    "selected": true,
+    "accessRole": "owner",
+    "defaultReminders": [],
+    "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+    "eventHangout"
+    ]
+    }
+    },
+    {
+    "kind": "calendar#calendarListEntry",
+    "etag": "\"0\"",
+    "id": "s67qb2v91l4fq2m50m5hn0gtfo@group.calendar.google.com",
+    "summary": "THIS IS A GOOD TIME TO STUDY",
+    "timeZone": "UTC",
+    "colorId": "11",
+    "backgroundColor": "#fbe983",
+    "foregroundColor": "#000000",
+    "selected": true,
+    "accessRole": "owner",
+    "defaultReminders": [
+    {
+    "method": "email",
+    "minutes": 10
+    },
+    {
+    "method": "popup",
+    "minutes": 10
+    }
+    ],
+    "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+    "eventHangout"
+    ]
+    }
+    },
+    {
+    "kind": "calendar#calendarListEntry",
+    "etag": "\"0\"",
+    "id": "waltfl7@gmail.com",
+    "summary": "waltfl7@gmail.com",
+    "timeZone": "America/New_York",
+    "colorId": "16",
+    "backgroundColor": "#4986e7",
+    "foregroundColor": "#000000",
+    "selected": true,
+    "accessRole": "owner",
+    "defaultReminders": [],
+    "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+    "eventHangout"
+    ]
+    }
+    },
+    {
+    "kind": "calendar#calendarListEntry",
+    "etag": "\"0\"",
+    "id": "jcq3t5o2cna1prp8eqhrbbkjes@group.calendar.google.com",
+    "summary": "Ilona's Classes",
+    "timeZone": "America/New_York",
+    "colorId": "10",
+    "backgroundColor": "#b3dc6c",
+    "foregroundColor": "#000000",
+    "selected": true,
+    "accessRole": "owner",
+    "defaultReminders": [],
+    "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+    "eventHangout"
+    ]
+    }
+    },
+    {
+    "kind": "calendar#calendarListEntry",
+    "etag": "\"1418014593173000\"",
+    "id": "#contacts@group.v.calendar.google.com",
+    "summary": "Contacts",
+    "timeZone": "America/New_York",
+    "colorId": "13",
+    "backgroundColor": "#92e1c0",
+    "foregroundColor": "#000000",
+    "selected": true,
+    "accessRole": "reader",
+    "defaultReminders": [],
+    "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+    "eventHangout"
+    ]
+    }
+    },
+    {
+    "kind": "calendar#calendarListEntry",
+    "etag": "\"0\"",
+    "id": "#hebrew@group.v.calendar.google.com",
+    "summary": "Hebrew Calendar",
+    "timeZone": "America/New_York",
+    "colorId": "14",
+    "backgroundColor": "#9fe1e7",
+    "foregroundColor": "#000000",
+    "selected": true,
+    "accessRole": "reader",
+    "defaultReminders": [],
+    "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+    "eventHangout"
+    ]
+    }
+    },
+    {
+    "kind": "calendar#calendarListEntry",
+    "etag": "\"0\"",
+    "id": "en.finnish#holiday@group.v.calendar.google.com",
+    "summary": "Holidays in Finland",
+    "timeZone": "America/New_York",
+    "colorId": "17",
+    "backgroundColor": "#9a9cff",
+    "foregroundColor": "#000000",
+    "selected": true,
+    "accessRole": "reader",
+    "defaultReminders": [],
+    "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+    "eventHangout"
+    ]
+    }
+    },
+    {
+    "kind": "calendar#calendarListEntry",
+    "etag": "\"1525719288209000\"",
+    "id": "en.jewish#holiday@group.v.calendar.google.com",
+    "summary": "Holidays in Israel",
+    "timeZone": "America/New_York",
+    "colorId": "14",
+    "backgroundColor": "#9fe1e7",
+    "foregroundColor": "#000000",
+    "selected": true,
+    "accessRole": "reader",
+    "defaultReminders": [],
+    "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+    "eventHangout"
+    ]
+    }
+    },
+    {
+    "kind": "calendar#calendarListEntry",
+    "etag": "\"1525706939813000\"",
+    "id": "en.usa#holiday@group.v.calendar.google.com",
+    "summary": "Holidays in United States",
+    "timeZone": "America/New_York",
+    "summaryOverride": "Holidays in United States",
+    "colorId": "7",
+    "backgroundColor": "#42d692",
+    "foregroundColor": "#000000",
+    "selected": true,
+    "accessRole": "reader",
+    "defaultReminders": [],
+    "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+    "eventHangout"
+    ]
+    }
+    },
+    {
+    "kind": "calendar#calendarListEntry",
+    "etag": "\"0\"",
+    "id": "mlb_20_%57ashington+%4eationals#sports@group.v.calendar.google.com",
+    "summary": "Washington Nationals",
+    "timeZone": "America/New_York",
+    "colorId": "3",
+    "backgroundColor": "#f83a22",
+    "foregroundColor": "#000000",
+    "selected": true,
+    "accessRole": "reader",
+    "defaultReminders": [],
+    "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+    "eventHangout"
+    ]
+    }
+    },
+    {
+    "kind": "calendar#calendarListEntry",
+    "etag": "\"0\"",
+    "id": "ncaab_413_%4eorth+%43arolina+%54ar+%48eels#sports@group.v.calendar.google.com",
+    "summary": "North Carolina Tar Heels",
+    "timeZone": "America/New_York",
+    "colorId": "19",
+    "backgroundColor": "#c2c2c2",
+    "foregroundColor": "#000000",
+    "selected": true,
+    "accessRole": "reader",
+    "defaultReminders": [],
+    "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+    "eventHangout"
+    ]
+    }
+    },
+    {
+    "kind": "calendar#calendarListEntry",
+    "etag": "\"0\"",
+    "id": "ncaaf_6_%4eorth+%43arolina+%54ar+%48eels#sports@group.v.calendar.google.com",
+    "summary": "North Carolina Tar Heels",
+    "timeZone": "America/New_York",
+    "colorId": "19",
+    "backgroundColor": "#c2c2c2",
+    "foregroundColor": "#000000",
+    "selected": true,
+    "accessRole": "reader",
+    "defaultReminders": [],
+    "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+    "eventHangout"
+    ]
+    }
+    },
+    {
+    "kind": "calendar#calendarListEntry",
+    "etag": "\"0\"",
+    "id": "nfl_28_%57ashington+%52edskins#sports@group.v.calendar.google.com",
+    "summary": "Washington Redskins",
+    "timeZone": "America/New_York",
+    "colorId": "2",
+    "backgroundColor": "#d06b64",
+    "foregroundColor": "#000000",
+    "selected": true,
+    "accessRole": "reader",
+    "defaultReminders": [],
+    "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+    "eventHangout"
+    ]
+    }
+    }
+    ]
+    }
