@@ -24,12 +24,13 @@ $("#submit-calendars").click((e) => {
     //     console.log($(this));
     //     calendars.push($(this).val());
     // })
-    calendars.push("bl4fptbv5vridpa9e8qn2k5bj8@group.calendar.google.com")
+    calendars.push("6an4f2oeksqqja5g3j6lm7d98g@group.calendar.google.com");
     console.log(calendars);
     $.ajax({
         method: "POST",
         url: "http://localhost:5000/api/user/calendars",
         dataType: "json",
+        contentType: 'application/json',
         data: JSON.stringify({ "calendars": calendars }),
         success: (res) => {
             console.log(res);
